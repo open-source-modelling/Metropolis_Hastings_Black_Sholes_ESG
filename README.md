@@ -15,7 +15,7 @@ This method could be used in this case since the normal distribution has a well 
 
 What is required is to know a function that is able to tell, how much more likely is that the observed data came from one set of parameters as opposed to another set.
 
-A possible solution to this is to use the [Metropolis Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) algorithm. To directly quote Wikipedia:
+A possible solution to this is to use the [Metropolis Hastings](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm) algorithm.
 
 In statistics and statistical physics, the Metropolis–Hastings algorithm is a Markov chain Monte Carlo (MCMC) method for obtaining a sequence of random samples from a probability distribution from which direct sampling is difficult. This sequence can be used to approximate the distribution.
 
